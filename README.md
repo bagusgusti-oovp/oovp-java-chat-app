@@ -1,4 +1,4 @@
-# Object Oriented Visual Programming
+# JAVACHATBOT APP
 
 Java Swing Desktop Application (Chat Simulation)
 
